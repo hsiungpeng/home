@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Hsiung Peng's Portfolio
 
-You can use the [editor on GitHub](https://github.com/hsiungpeng/hsiungpeng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Young photography artist. Currently based in Taipei, Taiwan.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+**Exhibition Coordinator, National Taiwan Museum of Fine Arts / National Center of Photography and Images (2020.1. – 2022.1.)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Projects**
+1. [Crystalized Times: 2022 Centenary Memorial Exhibition of Photographers of Taiwan](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21120917300648766)
 
-```markdown
-Syntax highlighted code block
+2. [Emerging Taiwanese Cultural Landscape](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21071317363817702)
 
-# Header 1
-## Header 2
-### Header 3
+3. [Trans-Communication : From Osaka Shosen Kaisha to National Center of Photography and Images](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21011913002067827)
+4. [Tangible Times: Masters of Photography from the NTMoFA and NCPI Collections](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/20120420413483211)
 
-- Bulleted
-- List
+**Freelance English-Chinese Translator (Since 2017)**
 
-1. Numbered
-2. List
+## Education
 
-**Bold** and _Italic_ and `Code` text
+Master of Arts (English/Film Studies)
+Graduate Institute of Foreign Languages and Literatures, National Taiwan University (2018)
+Thesis: [_Cinema/Art: The Cinematic Appropriation of Art in the Films of Jean-Luc Godard, Hou Hsiao-Hsien, and Tsai Ming-Liang_](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1508201820050400)
 
-[Link](url) and ![Image](src)
-```
+Bachlor of Arts (English)
+Department of Foreign Languages and Literatures, National Taiwan University (2015)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Photographic Art
+[Yeluzi Foto](https://www.instagram.com/yeluzi_foto)
 
-### Jekyll Themes
+## Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hsiungpeng/hsiungpeng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+hsiungpeng@gmail.com
