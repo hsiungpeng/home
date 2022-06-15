@@ -18,13 +18,13 @@ Young photography artist. Currently based in Taipei, Taiwan.
 
 ## Education
 
-Master of Arts in English/Film Studies
+**Master of Arts in English/Film Studies**
 
 Graduate Institute of Foreign Languages and Literatures, National Taiwan University (2018)
 
 Thesis: [_Cinema/Art: The Cinematic Appropriation of Art in the Films of Jean-Luc Godard, Hou Hsiao-Hsien, and Tsai Ming-Liang_](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1508201820050400)
 
-Bachlor of Arts in English
+**Bachlor of Arts in English**
 
 Department of Foreign Languages and Literatures, National Taiwan University (2015)
 
