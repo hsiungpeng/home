@@ -1,6 +1,10 @@
-# Hsiung Peng's Portfolio
+# Hsiung Peng
+
+[src](https://static.wixstatic.com/media/dc43ec_c5de27333c274a9bbbbb12cc04c31fb5~mv2.jpg/v1/fill/w_753,h_503,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/image925_JPG.jpg)
 
 Young photography artist. Currently based in Taipei, Taiwan.
+
+[Personal Website](https://hsiungpeng.wixsite.com/home)
 
 ## Experience
 
@@ -29,7 +33,9 @@ Thesis: [_Cinema/Art: The Cinematic Appropriation of Art in the Films of Jean-Lu
 Department of Foreign Languages and Literatures, National Taiwan University (2015)
 
 ## Photographic Art
-[Yeluzi Foto](https://www.instagram.com/yeluzi_foto)
+Instagram: [Yeluzi Foto](https://www.instagram.com/yeluzi_foto)
+
+Patreon: [Yeluzi Foto](https://www.patreon.com/yeluzi_foto) 
 
 ## Contact
 
