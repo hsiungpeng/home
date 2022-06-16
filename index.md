@@ -11,12 +11,12 @@ Young photography artist. Currently based in Taipei, Taiwan.
 **Exhibition Coordinator, National Taiwan Museum of Fine Arts / National Center of Photography and Images (2020.1. – 2022.1.)**
 
 **Projects**
-1. [Crystalized Times: 2022 Centenary Memorial Exhibition of Photographers of Taiwan](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21120917300648766)
+1. [_Crystalized Times: 2022 Centenary Memorial Exhibition of Photographers of Taiwan_](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21120917300648766)
 
-2. [Emerging Taiwanese Cultural Landscape](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21071317363817702)
+2. [_Emerging Taiwanese Cultural Landscape_](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21071317363817702)
 
-3. [Trans-Communication : From Osaka Shosen Kaisha to National Center of Photography and Images](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21011913002067827)
-4. [Tangible Times: Masters of Photography from the NTMoFA and NCPI Collections](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/20120420413483211)
+3. [_Trans-Communication : From Osaka Shosen Kaisha to National Center of Photography and Images_](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/21011913002067827)
+4. [_Tangible Times: Masters of Photography from the NTMoFA and NCPI Collections_](https://ncpiexhibition.ntmofa.gov.tw/en/Exhibition/Detail/20120420413483211)
 
 **Freelance English-Chinese Translator (Since 2017)**
 
