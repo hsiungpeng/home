@@ -33,9 +33,7 @@ Thesis: [_Cinema/Art: The Cinematic Appropriation of Art in the Films of Jean-Lu
 Department of Foreign Languages and Literatures, National Taiwan University (2015)
 
 ## Photographic Art
-Instagram: [Yeluzi Foto](https://www.instagram.com/yeluzi_foto)
-
-Patreon: [Yeluzi Foto](https://www.patreon.com/yeluzi_foto) 
+Yeluzi Foto:[Instagram](https://www.instagram.com/yeluzi_foto),[Patreon](https://www.patreon.com/yeluzi_foto) 
 
 ## Contact
 
