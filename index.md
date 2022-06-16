@@ -22,18 +22,18 @@ Young photography artist. Currently based in Taipei, Taiwan.
 
 ## Education
 
-**Master of Arts in English/Film Studies**
+**Master of Arts (English/Film Studies)**
 
 Graduate Institute of Foreign Languages and Literatures, National Taiwan University (2018)
 
 Thesis: [_Cinema/Art: The Cinematic Appropriation of Art in the Films of Jean-Luc Godard, Hou Hsiao-Hsien, and Tsai Ming-Liang_](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1508201820050400)
 
-**Bachlor of Arts in English**
+**Bachlor of Arts (English)**
 
 Department of Foreign Languages and Literatures, National Taiwan University (2015)
 
 ## Photographic Art
-Yeluzi Foto:[Instagram](https://www.instagram.com/yeluzi_foto),[Patreon](https://www.patreon.com/yeluzi_foto) 
+Founder of the Yeluzi Foto studio, welcome to follow our [Instagram](https://www.instagram.com/yeluzi_foto), or support us by becoming a patron through our [Patreon](https://www.patreon.com/yeluzi_foto) page! You can also simply purchase AP giclee prints through the email below.
 
 ## Contact
 
