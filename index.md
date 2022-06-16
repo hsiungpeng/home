@@ -1,10 +1,8 @@
 # Hsiung Peng
 
-[src](https://static.wixstatic.com/media/dc43ec_c5de27333c274a9bbbbb12cc04c31fb5~mv2.jpg/v1/fill/w_753,h_503,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/image925_JPG.jpg)
+[src](https://static.wixstatic.com/media/dc43ec_c5de27333c274a9bbbbb12cc04c31fb5~mv2.jpg)
 
-Young photography artist. Currently based in Taipei, Taiwan.
-
-[Personal Website](https://hsiungpeng.wixsite.com/home)
+Young photography artist. Currently based in Taipei, Taiwan. [Personal Website](https://hsiungpeng.wixsite.com/home)
 
 ## Experience
 
